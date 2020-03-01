@@ -1,6 +1,7 @@
 # CamelsOptimizer :camel:
 Yet another camel case.
-Finding the optimal person to be traded for [camels](https://kamelrechner.eu/en/result) using _Bayesian Optimization_.
+Finding the optimal person to be traded for camels using _Bayesian Optimization_, 
+according to the scores in [this site](https://kamelrechner.eu/en/result).
 
 ## Motivation
 After playing and having fun with the [site](https://kamelrechner.eu/en/result), we decided to find the optimal person to be traded for camels (who is worth the largest number of camels).
